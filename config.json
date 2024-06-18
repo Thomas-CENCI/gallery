@@ -1,237 +1,54 @@
 {
-  "test": [
-    {
-      "width": 2048,
-      "height": 1152,
-      "path": "./photos/test/DSCF1305.jpg",
-      "compressed_path": "./photos/test/DSCF1305.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSCF1305.placeholder.jpg"
-    },
-    {
-      "width": 1639,
-      "height": 2048,
-      "path": "./photos/test/DSCF1112.jpg",
-      "compressed_path": "./photos/test/DSCF1112.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSCF1112.placeholder.jpg"
-    },
-    {
-      "width": 1638,
-      "height": 2048,
-      "path": "./photos/test/DSCF1272.jpg",
-      "compressed_path": "./photos/test/DSCF1272.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSCF1272.placeholder.jpg"
-    },
-    {
-      "width": 1536,
-      "height": 2048,
-      "path": "./photos/test/L1047837.jpg",
-      "compressed_path": "./photos/test/L1047837.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/L1047837.placeholder.jpg"
-    },
-    {
-      "width": 1638,
-      "height": 2048,
-      "path": "./photos/test/DSCF1504.jpg",
-      "compressed_path": "./photos/test/DSCF1504.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSCF1504.placeholder.jpg"
-    },
-    {
-      "width": 2048,
-      "height": 1152,
-      "path": "./photos/test/_DSC5721.jpg",
-      "compressed_path": "./photos/test/_DSC5721.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/_DSC5721.placeholder.jpg"
-    },
-    {
-      "width": 1536,
-      "height": 2048,
-      "path": "./photos/test/DSC02777.jpg",
-      "compressed_path": "./photos/test/DSC02777.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSC02777.placeholder.jpg"
-    },
+  "Lost underground": [
     {
       "width": 2048,
       "height": 1536,
-      "path": "./photos/test/DSCF2068.jpg",
-      "compressed_path": "./photos/test/DSCF2068.min.jpg",
+      "path": "./photos/Lost underground/L1047985.jpg",
+      "compressed_path": "./photos/Lost underground/L1047985.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/test/DSCF2068.placeholder.jpg"
-    },
-    {
-      "width": 2048,
-      "height": 1152,
-      "path": "./photos/test/DSCF1365.jpg",
-      "compressed_path": "./photos/test/DSCF1365.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSCF1365.placeholder.jpg"
-    },
-    {
-      "width": 1638,
-      "height": 2048,
-      "path": "./photos/test/_DSC3233.jpg",
-      "compressed_path": "./photos/test/_DSC3233.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/_DSC3233.placeholder.jpg"
-    },
-    {
-      "width": 2048,
-      "height": 1152,
-      "path": "./photos/test/DSCF0903.jpg",
-      "compressed_path": "./photos/test/DSCF0903.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSCF0903.placeholder.jpg"
-    },
-    {
-      "width": 1365,
-      "height": 2048,
-      "path": "./photos/test/DSC00204.jpg",
-      "compressed_path": "./photos/test/DSC00204.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSC00204.placeholder.jpg"
-    },
-    {
-      "width": 2048,
-      "height": 756,
-      "path": "./photos/test/DSCF0430-2.jpg",
-      "compressed_path": "./photos/test/DSCF0430-2.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSCF0430-2.placeholder.jpg"
-    },
-    {
-      "width": 2048,
-      "height": 756,
-      "path": "./photos/test/DSCF0445.jpg",
-      "compressed_path": "./photos/test/DSCF0445.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSCF0445.placeholder.jpg"
-    },
-    {
-      "width": 2048,
-      "height": 1152,
-      "path": "./photos/test/DSCF1439.jpg",
-      "compressed_path": "./photos/test/DSCF1439.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSCF1439.placeholder.jpg"
-    },
-    {
-      "width": 2048,
-      "height": 1280,
-      "path": "./photos/test/DSCF2101.jpg",
-      "compressed_path": "./photos/test/DSCF2101.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSCF2101.placeholder.jpg"
-    },
-    {
-      "width": 1365,
-      "height": 2048,
-      "path": "./photos/test/DSC00168.jpg",
-      "compressed_path": "./photos/test/DSC00168.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSC00168.placeholder.jpg"
-    },
-    {
-      "width": 1638,
-      "height": 2048,
-      "path": "./photos/test/_DSC3987.jpg",
-      "compressed_path": "./photos/test/_DSC3987.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/_DSC3987.placeholder.jpg"
-    },
-    {
-      "width": 1638,
-      "height": 2048,
-      "path": "./photos/test/_DSC3968.jpg",
-      "compressed_path": "./photos/test/_DSC3968.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/_DSC3968.placeholder.jpg"
+      "placeholder_path": "./photos/Lost underground/L1047985.placeholder.jpg"
     },
     {
       "width": 1536,
       "height": 2048,
-      "path": "./photos/test/DSCF2113.jpg",
-      "compressed_path": "./photos/test/DSCF2113.min.jpg",
+      "path": "./photos/Lost underground/L1048043.jpg",
+      "compressed_path": "./photos/Lost underground/L1048043.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/test/DSCF2113.placeholder.jpg"
-    },
-    {
-      "width": 1638,
-      "height": 2048,
-      "path": "./photos/test/_DSC4962.jpg",
-      "compressed_path": "./photos/test/_DSC4962.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/_DSC4962.placeholder.jpg"
-    },
-    {
-      "width": 1638,
-      "height": 2048,
-      "path": "./photos/test/_DSC4293.jpg",
-      "compressed_path": "./photos/test/_DSC4293.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/_DSC4293.placeholder.jpg"
-    },
-    {
-      "width": 1638,
-      "height": 2048,
-      "path": "./photos/test/_DSC4043.jpg",
-      "compressed_path": "./photos/test/_DSC4043.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/_DSC4043.placeholder.jpg"
-    },
-    {
-      "width": 1536,
-      "height": 2048,
-      "path": "./photos/test/DSCF1135.jpg",
-      "compressed_path": "./photos/test/DSCF1135.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSCF1135.placeholder.jpg"
-    },
-    {
-      "width": 1638,
-      "height": 2048,
-      "path": "./photos/test/DSCF1492.jpg",
-      "compressed_path": "./photos/test/DSCF1492.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSCF1492.placeholder.jpg"
+      "placeholder_path": "./photos/Lost underground/L1048043.placeholder.jpg"
     },
     {
       "width": 2048,
-      "height": 543,
-      "path": "./photos/test/_DSC5209-Pano-Edit.jpg",
-      "compressed_path": "./photos/test/_DSC5209-Pano-Edit.min.jpg",
+      "height": 1152,
+      "path": "./photos/Lost underground/L1048037.jpg",
+      "compressed_path": "./photos/Lost underground/L1048037.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/test/_DSC5209-Pano-Edit.placeholder.jpg"
+      "placeholder_path": "./photos/Lost underground/L1048037.placeholder.jpg"
     },
     {
       "width": 2048,
-      "height": 521,
-      "path": "./photos/test/_DSC5410-Pano.jpg",
-      "compressed_path": "./photos/test/_DSC5410-Pano.min.jpg",
+      "height": 1152,
+      "path": "./photos/Lost underground/L1047784.jpg",
+      "compressed_path": "./photos/Lost underground/L1047784.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/test/_DSC5410-Pano.placeholder.jpg"
-    },
-    {
-      "width": 1638,
-      "height": 2048,
-      "path": "./photos/test/DSCF1484.jpg",
-      "compressed_path": "./photos/test/DSCF1484.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSCF1484.placeholder.jpg"
-    },
-    {
-      "width": 1639,
-      "height": 2048,
-      "path": "./photos/test/DSCF1283.jpg",
-      "compressed_path": "./photos/test/DSCF1283.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/test/DSCF1283.placeholder.jpg"
+      "placeholder_path": "./photos/Lost underground/L1047784.placeholder.jpg"
     }
   ],
-  "portfolio": []
+  "Human representation": [
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Human representation/L1047837.jpg",
+      "compressed_path": "./photos/Human representation/L1047837.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Human representation/L1047837.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1152,
+      "path": "./photos/Human representation/L1048179.jpg",
+      "compressed_path": "./photos/Human representation/L1048179.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Human representation/L1048179.placeholder.jpg"
+    }
+  ]
 }

@@ -16,8 +16,7 @@
       "compressed_path": "./photos/Lost underground/L1048043.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Lost underground/L1048043.placeholder.jpg",
-      "thumbnail": false,
-      "title_thumbnail": true
+      "thumbnail": false
     },
     {
       "width": 3419,
@@ -53,7 +52,8 @@
       "compressed_path": "./photos/Lost underground/L1048037.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Lost underground/L1048037.placeholder.jpg",
-      "thumbnail": false
+      "thumbnail": false,
+      "title_thumbnail": true
     },
     {
       "width": 8401,
@@ -136,8 +136,7 @@
       "compressed_path": "./photos/French countryside/DSC00049.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/French countryside/DSC00049.placeholder.jpg",
-      "thumbnail": false,
-      "title_thumbnail": true
+      "thumbnail": false
     },
     {
       "width": 2474,
@@ -164,7 +163,8 @@
       "compressed_path": "./photos/French countryside/L1048371.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/French countryside/L1048371.placeholder.jpg",
-      "thumbnail": false
+      "thumbnail": false,
+      "title_thumbnail": true
     },
     {
       "width": 4000,
@@ -278,36 +278,6 @@
       "thumbnail": false
     }
   ],
-  "Minimalist scenes": [
-    {
-      "width": 4487,
-      "height": 5608,
-      "path": "./photos/Minimalist scenes/DSCF1516.jpg",
-      "compressed_path": "./photos/Minimalist scenes/DSCF1516.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Minimalist scenes/DSCF1516.placeholder.jpg",
-      "thumbnail": false
-    },
-    {
-      "width": 3428,
-      "height": 2571,
-      "path": "./photos/Minimalist scenes/L1048635.jpg",
-      "compressed_path": "./photos/Minimalist scenes/L1048635.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Minimalist scenes/L1048635.placeholder.jpg",
-      "thumbnail": false,
-      "title_thumbnail": true
-    },
-    {
-      "width": 3441,
-      "height": 2581,
-      "path": "./photos/Minimalist scenes/L1050388.jpg",
-      "compressed_path": "./photos/Minimalist scenes/L1050388.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Minimalist scenes/L1050388.placeholder.jpg",
-      "thumbnail": false
-    }
-  ],
   "City portraits": [
     {
       "width": 2505,
@@ -370,8 +340,7 @@
       "compressed_path": "./photos/City portraits/L1050250.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/City portraits/L1050250.placeholder.jpg",
-      "thumbnail": false,
-      "title_thumbnail": true
+      "thumbnail": false
     },
     {
       "width": 1203,
@@ -434,7 +403,8 @@
       "compressed_path": "./photos/City portraits/DSCF1283.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/City portraits/DSCF1283.placeholder.jpg",
-      "thumbnail": false
+      "thumbnail": false,
+      "title_thumbnail": true
     }
   ],
   "City scenes": [
@@ -526,7 +496,8 @@
       "compressed_path": "./photos/City scenes/DSCF0430-2.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/City scenes/DSCF0430-2.placeholder.jpg",
-      "thumbnail": false
+      "thumbnail": false,
+      "title_thumbnail": true
     },
     {
       "width": 2589,
@@ -535,6 +506,15 @@
       "compressed_path": "./photos/City scenes/L1049677.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/City scenes/L1049677.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3428,
+      "height": 2571,
+      "path": "./photos/City scenes/L1048635.jpg",
+      "compressed_path": "./photos/City scenes/L1048635.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1048635.placeholder.jpg",
       "thumbnail": false
     },
     {
@@ -589,8 +569,7 @@
       "compressed_path": "./photos/City scenes/L1050139.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/City scenes/L1050139.placeholder.jpg",
-      "thumbnail": false,
-      "title_thumbnail": true
+      "thumbnail": false
     },
     {
       "width": 3539,
@@ -617,6 +596,15 @@
       "compressed_path": "./photos/City scenes/L1049907.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/City scenes/L1049907.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3441,
+      "height": 2581,
+      "path": "./photos/City scenes/L1050388.jpg",
+      "compressed_path": "./photos/City scenes/L1050388.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1050388.placeholder.jpg",
       "thumbnail": false
     },
     {
@@ -682,8 +670,7 @@
       "compressed_path": "./photos/Human representation/L1047837.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Human representation/L1047837.placeholder.jpg",
-      "thumbnail": false,
-      "title_thumbnail": true
+      "thumbnail": false
     },
     {
       "width": 2048,
@@ -692,7 +679,8 @@
       "compressed_path": "./photos/Human representation/L1048179.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Human representation/L1048179.placeholder.jpg",
-      "thumbnail": false
+      "thumbnail": false,
+      "title_thumbnail": true
     },
     {
       "width": 3916,
@@ -715,15 +703,6 @@
       "thumbnail": false
     },
     {
-      "width": 8256,
-      "height": 6192,
-      "path": "./photos/National parks landscapes/DSCF3103.jpg",
-      "compressed_path": "./photos/National parks landscapes/DSCF3103.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/National parks landscapes/DSCF3103.placeholder.jpg",
-      "thumbnail": false
-    },
-    {
       "width": 3916,
       "height": 1446,
       "path": "./photos/National parks landscapes/L1049310 1.jpg",
@@ -742,23 +721,13 @@
       "thumbnail": false
     },
     {
-      "width": 8256,
-      "height": 6192,
-      "path": "./photos/National parks landscapes/DSCF2861.jpg",
-      "compressed_path": "./photos/National parks landscapes/DSCF2861.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/National parks landscapes/DSCF2861.placeholder.jpg",
-      "thumbnail": false
-    },
-    {
       "width": 6153,
       "height": 4614,
       "path": "./photos/National parks landscapes/DSCF2320.jpg",
       "compressed_path": "./photos/National parks landscapes/DSCF2320.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/National parks landscapes/DSCF2320.placeholder.jpg",
-      "thumbnail": false,
-      "title_thumbnail": true
+      "thumbnail": false
     },
     {
       "width": 8255,
@@ -785,7 +754,8 @@
       "compressed_path": "./photos/National parks landscapes/DSCF2854.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/National parks landscapes/DSCF2854.placeholder.jpg",
-      "thumbnail": false
+      "thumbnail": false,
+      "title_thumbnail": true
     },
     {
       "width": 6192,
@@ -794,15 +764,6 @@
       "compressed_path": "./photos/National parks landscapes/DSCF2934.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/National parks landscapes/DSCF2934.placeholder.jpg",
-      "thumbnail": false
-    },
-    {
-      "width": 8223,
-      "height": 3036,
-      "path": "./photos/National parks landscapes/DSCF3157.jpg",
-      "compressed_path": "./photos/National parks landscapes/DSCF3157.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/National parks landscapes/DSCF3157.placeholder.jpg",
       "thumbnail": false
     },
     {
@@ -842,12 +803,12 @@
       "thumbnail": false
     },
     {
-      "width": 8245,
-      "height": 3044,
-      "path": "./photos/National parks landscapes/DSCF3055.jpg",
-      "compressed_path": "./photos/National parks landscapes/DSCF3055.min.jpg",
+      "width": 3886,
+      "height": 2186,
+      "path": "./photos/National parks landscapes/L1049433.jpg",
+      "compressed_path": "./photos/National parks landscapes/L1049433.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/National parks landscapes/DSCF3055.placeholder.jpg",
+      "placeholder_path": "./photos/National parks landscapes/L1049433.placeholder.jpg",
       "thumbnail": false
     },
     {
@@ -922,7 +883,8 @@
       "compressed_path": "./photos/Amongst the seagulls/L1050408.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Amongst the seagulls/L1050408.placeholder.jpg",
-      "thumbnail": false
+      "thumbnail": false,
+      "title_thumbnail": true
     },
     {
       "width": 3733,
@@ -985,8 +947,7 @@
       "compressed_path": "./photos/Amongst the seagulls/L1050612.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Amongst the seagulls/L1050612.placeholder.jpg",
-      "thumbnail": false,
-      "title_thumbnail": true
+      "thumbnail": false
     },
     {
       "width": 3511,
@@ -1069,7 +1030,8 @@
       "compressed_path": "./photos/Grounded in Gander/L1049841.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Grounded in Gander/L1049841.placeholder.jpg",
-      "thumbnail": false
+      "thumbnail": false,
+      "title_thumbnail": true
     },
     {
       "width": 3368,
@@ -1087,8 +1049,7 @@
       "compressed_path": "./photos/Grounded in Gander/L1049829.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Grounded in Gander/L1049829.placeholder.jpg",
-      "thumbnail": false,
-      "title_thumbnail": true
+      "thumbnail": false
     }
   ]
 }

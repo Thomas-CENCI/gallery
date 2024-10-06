@@ -31,6 +31,6 @@ if [ -n "$(uname -a | grep Ubuntu)" -a -x "$(command -v mogrify)" ]; then
   mogrify -resize 32x $SCRIPT_PATH/photos/**/*.placeholder.jpeg &>/dev/null
   mogrify -resize 32x $SCRIPT_PATH/photos/**/*.placeholder.png &>/dev/null
   mogrify -resize 32x $SCRIPT_PATH/photos/**/*.placeholder.jpg &>/dev/null
-fi  
+fi
 
 python3 $SCRIPT_PATH/tools/setup.py

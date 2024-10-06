@@ -6,7 +6,8 @@
       "path": "./photos/Lost underground/L1047985.jpg",
       "compressed_path": "./photos/Lost underground/L1047985.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Lost underground/L1047985.placeholder.jpg"
+      "placeholder_path": "./photos/Lost underground/L1047985.placeholder.jpg",
+      "thumbnail": false
     },
     {
       "width": 1536,
@@ -14,7 +15,36 @@
       "path": "./photos/Lost underground/L1048043.jpg",
       "compressed_path": "./photos/Lost underground/L1048043.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Lost underground/L1048043.placeholder.jpg"
+      "placeholder_path": "./photos/Lost underground/L1048043.placeholder.jpg",
+      "thumbnail": false,
+      "title_thumbnail": true
+    },
+    {
+      "width": 3419,
+      "height": 2565,
+      "path": "./photos/Lost underground/L1049601.jpg",
+      "compressed_path": "./photos/Lost underground/L1049601.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Lost underground/L1049601.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3531,
+      "height": 2648,
+      "path": "./photos/Lost underground/L1048052.jpg",
+      "compressed_path": "./photos/Lost underground/L1048052.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Lost underground/L1048052.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3916,
+      "height": 2634,
+      "path": "./photos/Lost underground/L1047997.jpg",
+      "compressed_path": "./photos/Lost underground/L1047997.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Lost underground/L1047997.placeholder.jpg",
+      "thumbnail": false
     },
     {
       "width": 2048,
@@ -22,7 +52,62 @@
       "path": "./photos/Lost underground/L1048037.jpg",
       "compressed_path": "./photos/Lost underground/L1048037.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Lost underground/L1048037.placeholder.jpg"
+      "placeholder_path": "./photos/Lost underground/L1048037.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 8401,
+      "height": 4726,
+      "path": "./photos/Lost underground/DSCF0903.jpg",
+      "compressed_path": "./photos/Lost underground/DSCF0903.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Lost underground/DSCF0903.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3191,
+      "height": 1795,
+      "path": "./photos/Lost underground/L1047694.jpg",
+      "compressed_path": "./photos/Lost underground/L1047694.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Lost underground/L1047694.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3702,
+      "height": 2313,
+      "path": "./photos/Lost underground/L1047687.jpg",
+      "compressed_path": "./photos/Lost underground/L1047687.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Lost underground/L1047687.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2950,
+      "height": 2212,
+      "path": "./photos/Lost underground/L1048538.jpg",
+      "compressed_path": "./photos/Lost underground/L1048538.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Lost underground/L1048538.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2868,
+      "height": 2151,
+      "path": "./photos/Lost underground/L1048895.jpg",
+      "compressed_path": "./photos/Lost underground/L1048895.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Lost underground/L1048895.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2376,
+      "height": 3168,
+      "path": "./photos/Lost underground/L1049796.jpg",
+      "compressed_path": "./photos/Lost underground/L1049796.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Lost underground/L1049796.placeholder.jpg",
+      "thumbnail": false
     },
     {
       "width": 2048,
@@ -30,17 +115,575 @@
       "path": "./photos/Lost underground/L1047784.jpg",
       "compressed_path": "./photos/Lost underground/L1047784.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Lost underground/L1047784.placeholder.jpg"
+      "placeholder_path": "./photos/Lost underground/L1047784.placeholder.jpg",
+      "thumbnail": false
+    }
+  ],
+  "French countryside": [
+    {
+      "width": 2600,
+      "height": 3866,
+      "path": "./photos/French countryside/L1048393 1.jpg",
+      "compressed_path": "./photos/French countryside/L1048393 1.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/French countryside/L1048393 1.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 5739,
+      "height": 3827,
+      "path": "./photos/French countryside/DSC00049.jpg",
+      "compressed_path": "./photos/French countryside/DSC00049.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/French countryside/DSC00049.placeholder.jpg",
+      "thumbnail": false,
+      "title_thumbnail": true
+    },
+    {
+      "width": 2474,
+      "height": 3298,
+      "path": "./photos/French countryside/L1048468.jpg",
+      "compressed_path": "./photos/French countryside/L1048468.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/French countryside/L1048468.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3916,
+      "height": 2203,
+      "path": "./photos/French countryside/L1048434.jpg",
+      "compressed_path": "./photos/French countryside/L1048434.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/French countryside/L1048434.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3916,
+      "height": 2634,
+      "path": "./photos/French countryside/L1048371.jpg",
+      "compressed_path": "./photos/French countryside/L1048371.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/French countryside/L1048371.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 4000,
+      "height": 6000,
+      "path": "./photos/French countryside/DSC01261 (1).jpg",
+      "compressed_path": "./photos/French countryside/DSC01261 (1).min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/French countryside/DSC01261 (1).placeholder.jpg",
+      "thumbnail": false
+    }
+  ],
+  "Film": [
+    {
+      "width": 2444,
+      "height": 2444,
+      "path": "./photos/Film/000012260005.jpg",
+      "compressed_path": "./photos/Film/000012260005.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Film/000012260005.placeholder.jpg",
+      "thumbnail": false,
+      "title_thumbnail": true
+    },
+    {
+      "width": 2456,
+      "height": 2456,
+      "path": "./photos/Film/000012270001.jpg",
+      "compressed_path": "./photos/Film/000012270001.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Film/000012270001.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2436,
+      "height": 2436,
+      "path": "./photos/Film/000012260010.jpg",
+      "compressed_path": "./photos/Film/000012260010.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Film/000012260010.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2380,
+      "height": 2380,
+      "path": "./photos/Film/000077180007.jpg",
+      "compressed_path": "./photos/Film/000077180007.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Film/000077180007.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2418,
+      "height": 2418,
+      "path": "./photos/Film/000012260003.jpg",
+      "compressed_path": "./photos/Film/000012260003.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Film/000012260003.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2442,
+      "height": 2442,
+      "path": "./photos/Film/000012250006.jpg",
+      "compressed_path": "./photos/Film/000012250006.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Film/000012250006.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2389,
+      "height": 2389,
+      "path": "./photos/Film/000012250004.jpg",
+      "compressed_path": "./photos/Film/000012250004.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Film/000012250004.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2446,
+      "height": 2446,
+      "path": "./photos/Film/000012250009.jpg",
+      "compressed_path": "./photos/Film/000012250009.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Film/000012250009.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2444,
+      "height": 2444,
+      "path": "./photos/Film/000012250008.jpg",
+      "compressed_path": "./photos/Film/000012250008.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Film/000012250008.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2351,
+      "height": 2351,
+      "path": "./photos/Film/000012260009.jpg",
+      "compressed_path": "./photos/Film/000012260009.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Film/000012260009.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2380,
+      "height": 2380,
+      "path": "./photos/Film/000077180008.jpg",
+      "compressed_path": "./photos/Film/000077180008.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Film/000077180008.placeholder.jpg",
+      "thumbnail": false
+    }
+  ],
+  "Minimalist scenes": [
+    {
+      "width": 4487,
+      "height": 5608,
+      "path": "./photos/Minimalist scenes/DSCF1516.jpg",
+      "compressed_path": "./photos/Minimalist scenes/DSCF1516.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Minimalist scenes/DSCF1516.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3428,
+      "height": 2571,
+      "path": "./photos/Minimalist scenes/L1048635.jpg",
+      "compressed_path": "./photos/Minimalist scenes/L1048635.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Minimalist scenes/L1048635.placeholder.jpg",
+      "thumbnail": false,
+      "title_thumbnail": true
+    },
+    {
+      "width": 3441,
+      "height": 2581,
+      "path": "./photos/Minimalist scenes/L1050388.jpg",
+      "compressed_path": "./photos/Minimalist scenes/L1050388.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Minimalist scenes/L1050388.placeholder.jpg",
+      "thumbnail": false
+    }
+  ],
+  "City portraits": [
+    {
+      "width": 2505,
+      "height": 3340,
+      "path": "./photos/City portraits/L1049969.jpg",
+      "compressed_path": "./photos/City portraits/L1049969.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City portraits/L1049969.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 4252,
+      "height": 5314,
+      "path": "./photos/City portraits/DSCF1112.jpg",
+      "compressed_path": "./photos/City portraits/DSCF1112.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City portraits/DSCF1112.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 1940,
+      "height": 2587,
+      "path": "./photos/City portraits/L1050357.jpg",
+      "compressed_path": "./photos/City portraits/L1050357.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City portraits/L1050357.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3512,
+      "height": 2634,
+      "path": "./photos/City portraits/L1050340.jpg",
+      "compressed_path": "./photos/City portraits/L1050340.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City portraits/L1050340.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3910,
+      "height": 2199,
+      "path": "./photos/City portraits/L1047808.jpg",
+      "compressed_path": "./photos/City portraits/L1047808.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City portraits/L1047808.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3982,
+      "height": 5309,
+      "path": "./photos/City portraits/DSC02777.jpg",
+      "compressed_path": "./photos/City portraits/DSC02777.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City portraits/DSC02777.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2967,
+      "height": 2225,
+      "path": "./photos/City portraits/L1050250.jpg",
+      "compressed_path": "./photos/City portraits/L1050250.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City portraits/L1050250.placeholder.jpg",
+      "thumbnail": false,
+      "title_thumbnail": true
+    },
+    {
+      "width": 1203,
+      "height": 1603,
+      "path": "./photos/City portraits/L1048566.jpg",
+      "compressed_path": "./photos/City portraits/L1048566.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City portraits/L1048566.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 6192,
+      "height": 8256,
+      "path": "./photos/City portraits/DSCF2113.jpg",
+      "compressed_path": "./photos/City portraits/DSCF2113.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City portraits/DSCF2113.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 4622,
+      "height": 2600,
+      "path": "./photos/City portraits/DSCF0897.jpg",
+      "compressed_path": "./photos/City portraits/DSCF0897.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City portraits/DSCF0897.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3916,
+      "height": 2634,
+      "path": "./photos/City portraits/L1048826 1.jpg",
+      "compressed_path": "./photos/City portraits/L1048826 1.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City portraits/L1048826 1.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3315,
+      "height": 2486,
+      "path": "./photos/City portraits/L1050360.jpg",
+      "compressed_path": "./photos/City portraits/L1050360.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City portraits/L1050360.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 6192,
+      "height": 7740,
+      "path": "./photos/City portraits/DSCF1484.jpg",
+      "compressed_path": "./photos/City portraits/DSCF1484.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City portraits/DSCF1484.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 5234,
+      "height": 6542,
+      "path": "./photos/City portraits/DSCF1283.jpg",
+      "compressed_path": "./photos/City portraits/DSCF1283.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City portraits/DSCF1283.placeholder.jpg",
+      "thumbnail": false
+    }
+  ],
+  "City scenes": [
+    {
+      "width": 2634,
+      "height": 3512,
+      "path": "./photos/City scenes/L1049567.jpg",
+      "compressed_path": "./photos/City scenes/L1049567.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1049567.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 6638,
+      "height": 2451,
+      "path": "./photos/City scenes/DSCF0009.jpg",
+      "compressed_path": "./photos/City scenes/DSCF0009.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/DSCF0009.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 4000,
+      "height": 5000,
+      "path": "./photos/City scenes/_DSC4315.jpg",
+      "compressed_path": "./photos/City scenes/_DSC4315.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/_DSC4315.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3805,
+      "height": 2140,
+      "path": "./photos/City scenes/L1050179.jpg",
+      "compressed_path": "./photos/City scenes/L1050179.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1050179.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3452,
+      "height": 2157,
+      "path": "./photos/City scenes/L1049897.jpg",
+      "compressed_path": "./photos/City scenes/L1049897.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1049897.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3858,
+      "height": 2595,
+      "path": "./photos/City scenes/L1049909.jpg",
+      "compressed_path": "./photos/City scenes/L1049909.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1049909.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3873,
+      "height": 2178,
+      "path": "./photos/City scenes/L1049919.jpg",
+      "compressed_path": "./photos/City scenes/L1049919.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1049919.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 1836,
+      "height": 3264,
+      "path": "./photos/City scenes/L1050247.jpg",
+      "compressed_path": "./photos/City scenes/L1050247.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1050247.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3785,
+      "height": 2129,
+      "path": "./photos/City scenes/L1050087.jpg",
+      "compressed_path": "./photos/City scenes/L1050087.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1050087.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 7170,
+      "height": 2647,
+      "path": "./photos/City scenes/DSCF0430-2.jpg",
+      "compressed_path": "./photos/City scenes/DSCF0430-2.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/DSCF0430-2.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2589,
+      "height": 956,
+      "path": "./photos/City scenes/L1049677.jpg",
+      "compressed_path": "./photos/City scenes/L1049677.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1049677.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 4961,
+      "height": 6201,
+      "path": "./photos/City scenes/DSCF0478.jpg",
+      "compressed_path": "./photos/City scenes/DSCF0478.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/DSCF0478.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3322,
+      "height": 4153,
+      "path": "./photos/City scenes/DSCF1227.jpg",
+      "compressed_path": "./photos/City scenes/DSCF1227.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/DSCF1227.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2375,
+      "height": 3167,
+      "path": "./photos/City scenes/L1049903.jpg",
+      "compressed_path": "./photos/City scenes/L1049903.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1049903.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 8256,
+      "height": 5160,
+      "path": "./photos/City scenes/DSCF2101.jpg",
+      "compressed_path": "./photos/City scenes/DSCF2101.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/DSCF2101.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3801,
+      "height": 2138,
+      "path": "./photos/City scenes/L1049646.jpg",
+      "compressed_path": "./photos/City scenes/L1049646.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1049646.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2461,
+      "height": 3281,
+      "path": "./photos/City scenes/L1050139.jpg",
+      "compressed_path": "./photos/City scenes/L1050139.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1050139.placeholder.jpg",
+      "thumbnail": false,
+      "title_thumbnail": true
+    },
+    {
+      "width": 3539,
+      "height": 2212,
+      "path": "./photos/City scenes/L1050305.jpg",
+      "compressed_path": "./photos/City scenes/L1050305.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1050305.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3092,
+      "height": 2319,
+      "path": "./photos/City scenes/L1050067.jpg",
+      "compressed_path": "./photos/City scenes/L1050067.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1050067.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3229,
+      "height": 2422,
+      "path": "./photos/City scenes/L1049907.jpg",
+      "compressed_path": "./photos/City scenes/L1049907.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1049907.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3916,
+      "height": 2203,
+      "path": "./photos/City scenes/L1049550.jpg",
+      "compressed_path": "./photos/City scenes/L1049550.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1049550.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3253,
+      "height": 2440,
+      "path": "./photos/City scenes/L1050362.jpg",
+      "compressed_path": "./photos/City scenes/L1050362.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1050362.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2633,
+      "height": 3511,
+      "path": "./photos/City scenes/L1049584.jpg",
+      "compressed_path": "./photos/City scenes/L1049584.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1049584.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3759,
+      "height": 1388,
+      "path": "./photos/City scenes/L1050177.jpg",
+      "compressed_path": "./photos/City scenes/L1050177.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1050177.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3847,
+      "height": 2164,
+      "path": "./photos/City scenes/L1049595.jpg",
+      "compressed_path": "./photos/City scenes/L1049595.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/City scenes/L1049595.placeholder.jpg",
+      "thumbnail": false
     }
   ],
   "Human representation": [
+    {
+      "width": 1821,
+      "height": 2428,
+      "path": "./photos/Human representation/L1049767.jpg",
+      "compressed_path": "./photos/Human representation/L1049767.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Human representation/L1049767.placeholder.jpg",
+      "thumbnail": false
+    },
     {
       "width": 1536,
       "height": 2048,
       "path": "./photos/Human representation/L1047837.jpg",
       "compressed_path": "./photos/Human representation/L1047837.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Human representation/L1047837.placeholder.jpg"
+      "placeholder_path": "./photos/Human representation/L1047837.placeholder.jpg",
+      "thumbnail": false,
+      "title_thumbnail": true
     },
     {
       "width": 2048,
@@ -48,7 +691,404 @@
       "path": "./photos/Human representation/L1048179.jpg",
       "compressed_path": "./photos/Human representation/L1048179.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Human representation/L1048179.placeholder.jpg"
+      "placeholder_path": "./photos/Human representation/L1048179.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3916,
+      "height": 2634,
+      "path": "./photos/Human representation/L1049736.jpg",
+      "compressed_path": "./photos/Human representation/L1049736.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Human representation/L1049736.placeholder.jpg",
+      "thumbnail": false
+    }
+  ],
+  "National parks landscapes": [
+    {
+      "width": 3916,
+      "height": 1446,
+      "path": "./photos/National parks landscapes/L1049161.jpg",
+      "compressed_path": "./photos/National parks landscapes/L1049161.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/L1049161.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 8256,
+      "height": 6192,
+      "path": "./photos/National parks landscapes/DSCF3103.jpg",
+      "compressed_path": "./photos/National parks landscapes/DSCF3103.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/DSCF3103.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3916,
+      "height": 1446,
+      "path": "./photos/National parks landscapes/L1049310 1.jpg",
+      "compressed_path": "./photos/National parks landscapes/L1049310 1.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/L1049310 1.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2579,
+      "height": 3834,
+      "path": "./photos/National parks landscapes/L1049248 1.jpg",
+      "compressed_path": "./photos/National parks landscapes/L1049248 1.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/L1049248 1.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 8256,
+      "height": 6192,
+      "path": "./photos/National parks landscapes/DSCF2861.jpg",
+      "compressed_path": "./photos/National parks landscapes/DSCF2861.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/DSCF2861.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 6153,
+      "height": 4614,
+      "path": "./photos/National parks landscapes/DSCF2320.jpg",
+      "compressed_path": "./photos/National parks landscapes/DSCF2320.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/DSCF2320.placeholder.jpg",
+      "thumbnail": false,
+      "title_thumbnail": true
+    },
+    {
+      "width": 8255,
+      "height": 6191,
+      "path": "./photos/National parks landscapes/DSCF2422 1.jpg",
+      "compressed_path": "./photos/National parks landscapes/DSCF2422 1.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/DSCF2422 1.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 7863,
+      "height": 5897,
+      "path": "./photos/National parks landscapes/DSCF2458.jpg",
+      "compressed_path": "./photos/National parks landscapes/DSCF2458.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/DSCF2458.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 7330,
+      "height": 2707,
+      "path": "./photos/National parks landscapes/DSCF2854.jpg",
+      "compressed_path": "./photos/National parks landscapes/DSCF2854.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/DSCF2854.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 6192,
+      "height": 8256,
+      "path": "./photos/National parks landscapes/DSCF2934.jpg",
+      "compressed_path": "./photos/National parks landscapes/DSCF2934.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/DSCF2934.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 8223,
+      "height": 3036,
+      "path": "./photos/National parks landscapes/DSCF3157.jpg",
+      "compressed_path": "./photos/National parks landscapes/DSCF3157.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/DSCF3157.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3794,
+      "height": 1401,
+      "path": "./photos/National parks landscapes/L1049478.jpg",
+      "compressed_path": "./photos/National parks landscapes/L1049478.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/L1049478.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 8204,
+      "height": 5127,
+      "path": "./photos/National parks landscapes/DSCF2704.jpg",
+      "compressed_path": "./photos/National parks landscapes/DSCF2704.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/DSCF2704.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2634,
+      "height": 3512,
+      "path": "./photos/National parks landscapes/L1049442.jpg",
+      "compressed_path": "./photos/National parks landscapes/L1049442.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/L1049442.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 7641,
+      "height": 5731,
+      "path": "./photos/National parks landscapes/DSCF2360.jpg",
+      "compressed_path": "./photos/National parks landscapes/DSCF2360.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/DSCF2360.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 8245,
+      "height": 3044,
+      "path": "./photos/National parks landscapes/DSCF3055.jpg",
+      "compressed_path": "./photos/National parks landscapes/DSCF3055.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/DSCF3055.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3500,
+      "height": 2187,
+      "path": "./photos/National parks landscapes/L1049347.jpg",
+      "compressed_path": "./photos/National parks landscapes/L1049347.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/National parks landscapes/L1049347.placeholder.jpg",
+      "thumbnail": false
+    }
+  ],
+  "Amongst the seagulls": [
+    {
+      "width": 3551,
+      "height": 1997,
+      "path": "./photos/Amongst the seagulls/L1050626.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050626.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050626.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2501,
+      "height": 3334,
+      "path": "./photos/Amongst the seagulls/L1050579.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050579.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050579.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2702,
+      "height": 1520,
+      "path": "./photos/Amongst the seagulls/L1050551.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050551.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050551.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2922,
+      "height": 2191,
+      "path": "./photos/Amongst the seagulls/L1050631.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050631.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050631.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2634,
+      "height": 1975,
+      "path": "./photos/Amongst the seagulls/L1050426.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050426.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050426.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3778,
+      "height": 1395,
+      "path": "./photos/Amongst the seagulls/L1050620.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050620.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050620.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3845,
+      "height": 2163,
+      "path": "./photos/Amongst the seagulls/L1050408.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050408.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050408.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3733,
+      "height": 2100,
+      "path": "./photos/Amongst the seagulls/L1050485.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050485.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050485.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3916,
+      "height": 2203,
+      "path": "./photos/Amongst the seagulls/L1050450.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050450.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050450.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3874,
+      "height": 2179,
+      "path": "./photos/Amongst the seagulls/L1050646.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050646.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050646.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2587,
+      "height": 3450,
+      "path": "./photos/Amongst the seagulls/L1050531.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050531.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050531.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3512,
+      "height": 2634,
+      "path": "./photos/Amongst the seagulls/L1050669.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050669.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050669.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 2975,
+      "height": 2231,
+      "path": "./photos/Amongst the seagulls/L1050405.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050405.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050405.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3916,
+      "height": 2634,
+      "path": "./photos/Amongst the seagulls/L1050612.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050612.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050612.placeholder.jpg",
+      "thumbnail": false,
+      "title_thumbnail": true
+    },
+    {
+      "width": 3511,
+      "height": 2633,
+      "path": "./photos/Amongst the seagulls/L1050410.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050410.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050410.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3476,
+      "height": 2607,
+      "path": "./photos/Amongst the seagulls/L1050406.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050406.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050406.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3825,
+      "height": 1412,
+      "path": "./photos/Amongst the seagulls/L1050639.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050639.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050639.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3427,
+      "height": 2570,
+      "path": "./photos/Amongst the seagulls/L1050403.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050403.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050403.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3625,
+      "height": 1338,
+      "path": "./photos/Amongst the seagulls/L1050629.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050629.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050629.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3876,
+      "height": 1431,
+      "path": "./photos/Amongst the seagulls/L1050615.jpg",
+      "compressed_path": "./photos/Amongst the seagulls/L1050615.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Amongst the seagulls/L1050615.placeholder.jpg",
+      "thumbnail": false
+    }
+  ],
+  "Grounded in Gander": [
+    {
+      "width": 2994,
+      "height": 2245,
+      "path": "./photos/Grounded in Gander/L1049824.jpg",
+      "compressed_path": "./photos/Grounded in Gander/L1049824.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Grounded in Gander/L1049824.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3318,
+      "height": 2489,
+      "path": "./photos/Grounded in Gander/L1049842.jpg",
+      "compressed_path": "./photos/Grounded in Gander/L1049842.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Grounded in Gander/L1049842.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3510,
+      "height": 2632,
+      "path": "./photos/Grounded in Gander/L1049841.jpg",
+      "compressed_path": "./photos/Grounded in Gander/L1049841.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Grounded in Gander/L1049841.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3368,
+      "height": 2526,
+      "path": "./photos/Grounded in Gander/L1049852.jpg",
+      "compressed_path": "./photos/Grounded in Gander/L1049852.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Grounded in Gander/L1049852.placeholder.jpg",
+      "thumbnail": false
+    },
+    {
+      "width": 3916,
+      "height": 2203,
+      "path": "./photos/Grounded in Gander/L1049829.jpg",
+      "compressed_path": "./photos/Grounded in Gander/L1049829.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Grounded in Gander/L1049829.placeholder.jpg",
+      "thumbnail": false,
+      "title_thumbnail": true
     }
   ]
 }
